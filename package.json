@@ -1,0 +1,8 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "Utility program which helps in parsing the provided cron expression while also producing prettified output explaining the cron expression.",
+  "main": "index.js",
+  "author": "Ankit Agarwal",
+  "license": "ISC"
+}
