@@ -21,7 +21,7 @@ Cron Parser is a utility which validates and provides a human readable format of
 - Make sure you have nodejs setup locally and commands like 'node' and 'npm' are present in path.
 - Checkout the project with below command:
     ```sh
-    git clone 
+    git clone https://github.com/mjolnir-wielder/cron-parser.git
     ```
 - Change directory to the root of the project:
     ```sh
